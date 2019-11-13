@@ -1,0 +1,13 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+.floating{
+  position: fixed;
+  bottom: 2em;
+  right: 2em;
+  z-index: 100;
+}
+
